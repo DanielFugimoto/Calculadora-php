@@ -1,0 +1,37 @@
+h1 {
+    color: #148;
+    font-size: 36px;
+    margin: 10px;
+    padding: 10px;
+    border: 10px;
+    align-items: center;
+}
+
+body {
+    color: #333;
+    align-items: center;
+}
+
+label {
+    color: #114488;
+    align-items: center;
+    display: inline-block;
+    width: 100px;
+    margin: 10px;
+    padding: 10px;
+}
+
+input {
+    margin: 10px;
+    padding: 5px;
+}
+
+html {
+    background-color: aliceblue;
+    margin: 20px;
+    align-items: center;
+    align-content: center;
+    margin-left: 600px;
+    margin-top: 50px;
+}
+
